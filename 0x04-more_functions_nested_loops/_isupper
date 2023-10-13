@@ -1,0 +1,6 @@
+#ifndef MYISUPPER_H
+#define MYISUPPER_H
+
+int _isupper(int c);
+
+#endif
